@@ -6,8 +6,8 @@ import numpy as np
 
 
 # magins
-min_val = 0.2
-max_val = 0.6
+min_val = -1.5
+max_val = 1.5
 
 max_cycles = 500
 details = 500
