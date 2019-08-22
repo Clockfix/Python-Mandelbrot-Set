@@ -1,3 +1,6 @@
 # Python-Mandelbrot-Set
 
+![picture](
+https://fo3vta.bl.files.1drv.com/y4mO8O6PQQbewF9HTPHcY_ERhTyMlAhjlS-9n5ZFR7Jq9oX5WLSM_fZSM6xJjtfkxvo4XFXMnNle9blC8EVfoAxS7VHV5tB4CnlkQ-mC3lMICBogCSZl1e9JekAdpWNZqUBV_ZSAovrtQJbQzMXiviEHIMTBhfB1-CdHCj0diajOcJITZm4C4on-2IqEkk-D5CC98p-Ah25U7ua-2gqsgGnIg/mandelbrot2.jpeg)
+
 ![picture](https://gqj97w.bl.files.1drv.com/y4m72m4lpTUNOe-8CTj0SaGinE20C4i7LSxBUzXX53Hkw2Q3_V_TGTRf_jOgMlO-nKBIfTZBjpkWan9HBx-owNEo-nLeSXZpOC8BMhRDp56DBpptyL6PFmLLSIAp49irjuCfenp0XLz9apufipWId9KJy5UVPPExctgEAAhzkf1d6RXW0ilLgLt8yt77hM-vVSyre60KvZdTRrl6ELvFFBxlw/mandelbrot.jpeg)
